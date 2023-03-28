@@ -1,0 +1,128 @@
+C:\Users\Alex\source\repos\laborator 8\laborator 8\bin\Debug\net6.0-windows\laborator 8.exe
+C:\Users\Alex\source\repos\laborator 8\laborator 8\bin\Debug\net6.0-windows\laborator 8.deps.json
+C:\Users\Alex\source\repos\laborator 8\laborator 8\bin\Debug\net6.0-windows\laborator 8.runtimeconfig.json
+C:\Users\Alex\source\repos\laborator 8\laborator 8\bin\Debug\net6.0-windows\laborator 8.dll
+C:\Users\Alex\source\repos\laborator 8\laborator 8\bin\Debug\net6.0-windows\laborator 8.pdb
+C:\Users\Alex\source\repos\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator 8.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator_8.FormMain.resources
+C:\Users\Alex\source\repos\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator 8.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator 8.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator 8.AssemblyInfo.cs
+C:\Users\Alex\source\repos\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator 8.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator 8.dll
+C:\Users\Alex\source\repos\laborator 8\laborator 8\obj\Debug\net6.0-windows\refint\laborator 8.dll
+C:\Users\Alex\source\repos\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator 8.pdb
+C:\Users\Alex\source\repos\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator 8.genruntimeconfig.cache
+C:\Users\Alex\source\repos\laborator 8\laborator 8\obj\Debug\net6.0-windows\ref\laborator 8.dll
+C:\Users\Alex\source\repos\laborator 8\laborator 8\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Alex\source\repos\laborator 8\laborator 8\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Alex\source\repos\laborator 8\laborator 8\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Alex\source\repos\laborator 8\laborator 8\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Alex\source\repos\laborator 8\laborator 8\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alex\source\repos\laborator 8\laborator 8\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alex\source\repos\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator_8.FormMovies.resources
+C:\Users\Alex\source\repos\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator_8.FormAddMovies.resources
+C:\Users\Alex\source\repos\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator 8.csproj.CopyComplete
+C:\Users\Alex\source\repos\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator_8.FormUsers.resources
+C:\Users\Alex\source\repos\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator_8.FormFiles.resources
+C:\Users\Alex\source\repos\laborator 8\laborator 8\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alex\source\repos\laborator 8\laborator 8\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alex\source\repos\laborator 8\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alex\source\repos\laborator 8\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alex\source\repos\laborator 8\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alex\source\repos\laborator 8\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alex\source\repos\laborator 8\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Alex\source\repos\laborator 8\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alex\source\repos\laborator 8\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Alex\source\repos\laborator 8\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Alex\source\repos\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator_8.FormStart.resources
+C:\Users\Alex\source\repos\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator_8.Properties.Resources.resources
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\bin\Debug\net6.0-windows\laborator 8.exe
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\bin\Debug\net6.0-windows\laborator 8.deps.json
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\bin\Debug\net6.0-windows\laborator 8.runtimeconfig.json
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\bin\Debug\net6.0-windows\laborator 8.dll
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\bin\Debug\net6.0-windows\laborator 8.pdb
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator 8.csproj.AssemblyReference.cache
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator_8.FormMain.resources
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator_8.FormStart.resources
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator_8.FormUsers.resources
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator_8.Properties.Resources.resources
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator 8.csproj.GenerateResource.cache
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator 8.AssemblyInfoInputs.cache
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator 8.AssemblyInfo.cs
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator 8.csproj.CoreCompileInputs.cache
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator 8.csproj.CopyComplete
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator 8.dll
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\refint\laborator 8.dll
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator 8.pdb
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator 8.genruntimeconfig.cache
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\ref\laborator 8.dll
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator_8.LogIn.resources
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator_8.FormAddJucator.resources
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator_8.FormJucator.resources
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator_8.FormMeciuri.resources
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator_8.Profil.resources
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator_8.SearchMeci.resources
+C:\Users\fpopa\Desktop\laborator 8\laborator 8\obj\Debug\net6.0-windows\laborator_8.Register.resources
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\bin\Debug\net6.0-windows\laborator 8.exe
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\bin\Debug\net6.0-windows\laborator 8.deps.json
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\bin\Debug\net6.0-windows\laborator 8.runtimeconfig.json
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\bin\Debug\net6.0-windows\laborator 8.dll
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\bin\Debug\net6.0-windows\laborator 8.pdb
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\laborator 8.csproj.AssemblyReference.cache
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\laborator_8.FormAddJucator.resources
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\laborator_8.FormJucator.resources
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\laborator_8.FormMain.resources
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\laborator_8.FormMeciuri.resources
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\laborator_8.FormStart.resources
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\laborator_8.FormUsers.resources
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\laborator_8.LogIn.resources
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\laborator_8.Profil.resources
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\laborator_8.Properties.Resources.resources
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\laborator_8.Register.resources
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\laborator_8.SearchMeci.resources
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\laborator 8.csproj.GenerateResource.cache
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\laborator 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\laborator 8.AssemblyInfoInputs.cache
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\laborator 8.AssemblyInfo.cs
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\laborator 8.csproj.CoreCompileInputs.cache
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\laborator 8.csproj.CopyComplete
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\laborator 8.dll
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\refint\laborator 8.dll
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\laborator 8.pdb
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\laborator 8.genruntimeconfig.cache
+C:\Users\fpopa\Desktop\Proiect EAV\laborator 8\obj\Debug\net6.0-windows\ref\laborator 8.dll
